@@ -4,12 +4,19 @@ body {
   }
 
 #mainBox{
-    color: paleturquoise;
+    color: #548a63;
     text-align: center;
     padding:30px;
-    background: black;
+    background: #282633;
     font-size: 30px;
 }
+#timeRemaining{
+    color:#548a63;
+}
 header{
-    color: palevioletred;
+    color: #e07c5a;
+}
+form{
+    color: #d78a69;
+    font-size: 20px;
 }
