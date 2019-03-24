@@ -1,5 +1,9 @@
 //variables
 
+//Timer
+var timeRemaining = 0;
+
+
 //start page, have no idea how to do it.  Button is hit goes to questions and starts timer
 
 //timer starts when start button is hit
