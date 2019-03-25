@@ -1,9 +1,12 @@
 //variables
 
 //Timer
+
 var timeRemaining = 0;
 
 
+const start = document.getElementById("start");
+const quiz = document.getElementById("quiz");
 //start page, have no idea how to do it.  Button is hit goes to questions and starts timer
 
 //timer starts when start button is hit
