@@ -3,7 +3,11 @@
 //Timer
 
 var timeRemaining = 0;
-
+var questionOne=[ "choiceA","choiceB", "choiceC", "correct"];
+var questionTwo=[ "choiceA","choiceB", "choiceC", "correct"];
+var questionThree=[ "choiceA","choiceB", "choiceC", "correct"];
+var questionFour=[ "choiceA","choiceB", "choiceC", "correct"];
+var questionFive=[ "choiceA","choiceB", "choiceC", "correct"];
 
 const start = document.getElementById("start");
 const quiz = document.getElementById("quiz");
